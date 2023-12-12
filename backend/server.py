@@ -9,7 +9,7 @@ from langserve import add_routes
 
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+# os.environ["OPENAI_API_KEY"] = "key"
 
 bot =  get_chain(prompt_template)
 
