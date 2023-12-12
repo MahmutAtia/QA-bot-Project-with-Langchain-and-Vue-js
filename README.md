@@ -18,3 +18,7 @@ This project is aimed at creating a Question-Answering (QA) bot specifically tai
 3. **Get Answers**: Click the "Submit" or relevant button to receive the bot's response to your query.
 4. **Accessing Resources**: After receiving the answer, you can access the related resources by navigating to the 'Resources' section.
 
+## Demo
+Check out the demo below to see how the QA bot functions:
+
+![Animation1](https://github.com/MahmutAtia/QA-bot-Project-with-Langchain-and-Vue-js/assets/104507838/ee74d188-97b9-4cce-b636-32befbb77d5f)
